@@ -1,6 +1,5 @@
 # Blender 5.0.0
 # www.blender.org
-mtllib left arm boxng.mtl
 g left_arm_boxing_left_arm_boxing
 v 1376.760010 -389.569916 1028.729980
 v 1376.729980 -389.715912 1028.699951
